@@ -1,9 +1,4 @@
-## Olá! Eu sou o Otaviano Cruz 🖐️
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavianogouveia/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/i_cruz)
-
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
